@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Desiree (she/her)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&width=435&lines=Data+Science+%26+Math+Graduate;AI%2FML+Engineer;Social+Impact+Advocate;Brazilian+Jiu+Jitsu+Instructor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&width=435&lines=(◕‿◕)ﾉ*･ﾟ+Data+Scientist;;♡+Math+Lover;*:✧+Change+Maker alt="Typing SVG" />
 </div>
 
 ## 🎓 About Me
@@ -31,7 +31,7 @@ I am a recent Data Science & Math graduate from Northeastern University with a p
 
 
 ## 🌟 Interests & Impact
-I'm passionate about leveraging data science and AI to combat social issues, particularly in areas of **human trafficking prevention** and **survivor advocacy**. When I'm not programming, you'll find me learning Brazilian Jiu Jitsu or exploring the likes of a new novel!
+I'm passionate about leveraging data science and AI to combat social issues, particularly in areas of human trafficking prevention and survivor advocacy. When I'm not programming, you'll find me learning Jiu Jitsu or exploring the likes of a new novel!
 
 ## 📫 Let's Connect!
 
@@ -43,11 +43,6 @@ I'm passionate about leveraging data science and AI to combat social issues, par
 </div>
 
 ---
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet" alt="Profile views" />
-</div>
-
-<div align="center">
-  <i>"Using code to create positive change, one project at a time."</i>
+  <i>"Where data meets purpose, impact begins."</i>
 </div>
