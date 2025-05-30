@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Desiree (she/her)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&width=435&lines=(◕‿◕)ﾉ*･ﾟ+Data+Scientist;;♡+Math+Lover;*:✧+Change+Maker alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&width=435&lines=(◕‿◕)+Data+Scientist;ヾ(＾-＾)ノ+Math+Lover;♡*~✧+Change+Maker" alt="Typing SVG" />
 </div>
 
 ## 🎓 About Me
