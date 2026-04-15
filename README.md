@@ -1,19 +1,18 @@
-# Hi there! 👋 I'm Desiree (she/her)
+# Hi there! I'm Desiree...
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&width=435&lines=(◕‿◕)+Data+Scientist;ヾ(＾-＾)ノ+Math+Lover;♡*~✧+Change+Maker" alt="Typing SVG" />
 </div>
 
-## 🎓 About Me
-I am a recent Data Science & Math graduate from Northeastern University with a passion for using technology to solve meaningful problems. I'm particularly interested in AI/ML applications for social impact and building tools that make a difference.
+## About Me
+I am a Candidate for Masters in Applied Mathematics from Northeastern University with a passion for using technology to solve meaningful problems. I'm particularly interested in AI/ML applications for social impact and building tools that make a difference.
 
-## 🔬 What I'm Working On
+## What I'm Working On
 - 🤖 Natural Language Processing and Large Language Model applications
 - 📊 Data-driven research on social justice issues
 - ⚙️ AI pipelines and RAG systems
-- 🎮 Game development with Unity
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
