@@ -41,8 +41,3 @@ When I'm not programming, you'll find me learning Jiu Jitsu or exploring the lik
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:desireedegennaro@yahoo.com)
 
 </div>
-
----
-<div align="center">
-  <i>"Where data meets purpose, impact begins."</i>
-</div>
