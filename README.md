@@ -8,9 +8,9 @@
 I am a Candidate for Masters in Applied Mathematics from Northeastern University with a passion for using technology to solve meaningful problems. I'm particularly interested in AI/ML applications for social impact and building tools that make a difference.
 
 ## What I'm Working On
-- 🤖 Natural Language Processing and Large Language Model applications
-- 📊 Data-driven research on social justice issues
-- ⚙️ AI pipelines and RAG systems
+- Math Modeling and Large Language Model applications
+- Data-driven research on social justice issues
+- AI pipelines and RAG systems
 
 ## Tech Stack
 
@@ -29,10 +29,11 @@ I am a Candidate for Masters in Applied Mathematics from Northeastern University
 </div>
 
 
-## 🌟 Interests & Impact
-I'm passionate about leveraging data science and AI to combat social issues, particularly in areas of human trafficking prevention and survivor advocacy. When I'm not programming, you'll find me learning Jiu Jitsu or exploring the likes of a new novel!
+## Interests & Impact
+I'm passionate about leveraging data science and machine learning to combat social issues, particularly in areas of human trafficking prevention and survivor advocacy. 
+When I'm not programming, you'll find me learning Jiu Jitsu or exploring the likes of a new novel!
 
-## 📫 Let's Connect!
+## Let's Connect
 
 <div align="center">
 
